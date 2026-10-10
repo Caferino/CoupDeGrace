@@ -1,0 +1,35 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "GPL-3.0"
+[[mods]]
+modId = "coupdegrace"
+version = "1.0.0"
+displayName = "Coup de Grâce"
+authors = "Caferino"
+logoFile = "logo.png"
+
+## === DEPENDENCIES ===
+description = '''Adds a GTA-style adrenaline rush visual effect after killing any living entity.'''
+[[dependencies."coupdegrace"]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+# Minecraft
+[[dependencies."coupdegrace"]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.20.2)"
+ordering = "NONE"
+side = "BOTH"
+
+# Cloth API
+[[dependencies."coupdegrace"]]
+modId = "cloth_config"
+mandatory = true
+versionRange = "[11.0,)"
+ordering = "NONE"
+side = "CLIENT"
+
