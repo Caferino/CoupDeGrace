@@ -16,7 +16,6 @@ Minecraft 1.20.1 Forge mod that adds a GTA-style adrenaline rush visual effect a
 
 * **[Cloth Config API (Forge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config)** (Required for the in-game configuration menu)
 
----
 
 ## ⚡ Features
 
@@ -24,19 +23,16 @@ Minecraft 1.20.1 Forge mod that adds a GTA-style adrenaline rush visual effect a
 * **Lightweight & Shader-Friendly:** Built using custom overlay rendering rather than heavy post-processing shaders, ensuring full compatibility with OptiFine, Oculus, and popular shaderpacks.
 * **Fully Configurable:** Easily adjust effect duration and intensity via an in-game menu.
 
----
 
 ## ⚙️ Configuration
 
 You can customize the adrenaline rush settings in-game via **Mods > Coup de Grâce > Config** or by editing `config/coupdegrace-client.toml` directly.
 
----
 
 ## 🐛 Issues & Feedback
 
 Found a bug or have a feature request? Feel free to open an issue on the [Issue Tracker](https://github.com/Caferino/CoupDeGrace/issues).
 
----
 
 ## 📄 License
 
