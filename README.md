@@ -1,20 +1,23 @@
 <div align="center">
 
-![Coup de Grâce Logo](logo.png)
-
-# Coup de Grâce
-
-Minecraft 1.20.1 Forge mod that adds a GTA-style adrenaline rush visual effect after killing any living entity.
-
-[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen.svg)](https://minecraft.net)
-[![Mod Loader](https://img.shields.io/badge/Mod%20Loader-Forge-orange.svg)](https://files.minecraftforge.net/)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
-
+<!-- YouTube Trailer Preview Card -->
+  <p style="margin-top: 20px;">
+    <a href="https://www.youtube.com/watch?v=HrL-1JAJji0" target="_blank">
+      <img src="https://img.youtube.com/vi/HrL-1JAJji0/maxresdefault.jpg" alt="Coup de Grâce Trailer" width="600" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
+    </a>
+  </p>
+  <p style="font-size: 14px; color: #888;">▶️ <a href="https://www.youtube.com/watch?v=HrL-1JAJji0" target="_blank" style="color: #ff4444; text-decoration: none;">Click here to watch the Showcase</a></p>
+  <p style="font-size:16px;color:#ccc">A Minecraft 1.20.1 Forge mod that adds a GTA-style adrenaline rush visual effect after killing any living entity.</p>
+  <p>
+    <a href="https://minecraft.net/" rel="nofollow"><img src="https://img.shields.io/badge/Minecraft-1.20.1-brightgreen.svg" alt="Minecraft Version"></a>
+    <a href="https://files.minecraftforge.net/" rel="nofollow"><img src="https://img.shields.io/badge/Mod Loader-Forge-orange.svg" alt="Mod Loader"></a>
+    <a href="https://github.com/Caferino/CoupDeGrace/blob/main/LICENSE" rel="nofollow"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"></a>
+  </p>
 </div>
 
 ## 🔌 Dependencies
 
-* **[Cloth Config API (Forge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config)** (Required for the in-game configuration menu)
+* **[Cloth Config API (Forge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config)** (Required for the in-game configuration menu).
 
 
 ## ⚡ Features
